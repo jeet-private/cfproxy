@@ -27,6 +27,7 @@ const ORIGINS = {
     ## Example
     
     'github.tuhinwin.workers.dev'
+
 <br>
 
 **Replace 'origin.domain' with '[Origin Domain]'**
@@ -34,6 +35,7 @@ const ORIGINS = {
     ## Example
     
     'github.com'
+
 <br><br>
 
 #### The Code should be like this:<br>
